@@ -1,7 +1,9 @@
 # Usbong RETRO
-reusable computer instructions for use with 32-bit Operating Systems without Graphics Acceleration
+reusable computer instructions for use with 32-bit Operating Systems without 3-Dimensional (3D) Graphics Acceleration
 
-### Reference
+[Example Application Execution Video](http://store.usbong.ph/assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4)
+
+## 0. Recommended Reference
 https://github.com/usbong/tugon
 
 ## 1. Application Execution
