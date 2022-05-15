@@ -3,8 +3,10 @@ reusable computer instructions for use with 32-bit Operating Systems without 3-D
 
 [Example Application Execution Video](http://store.usbong.ph/assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4)
 
-## 0. Recommended Reference
-https://github.com/usbong/tugon
+## 0. Recommended References
+0.1 https://github.com/usbong/tugon
+
+0.2 [Usbong Pagong: SDL Only; No OpenGL](https://github.com/usbong/pagong/blob/main/history/pagong-mainSDLOnlyNoOpenGL32BitOSOKCppNotYetSetToBeMultiFilesV20210819T1440.tar.gz)
 
 ## 1. Application Execution
 --> verified: with Windows 7 32-bit Operating System (OS)<br/>
