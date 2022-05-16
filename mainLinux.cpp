@@ -15,7 +15,7 @@
  * @company: USBONG
  * @author: SYSON, MICHAEL B.
  * @date created: 20200926
- * @date updated: 20210819
+ * @date updated: 20220516; from 20210819
  * @website address: http://www.usbong.ph
  *
  * References:
@@ -1253,7 +1253,10 @@ int main(int argc, char *argv[])
 
 		presentScene();
 
-		SDL_Delay(16);
+		//edited by Mike, 20220516
+		//TO-DO: -add: auto-verify and set delay speed based on machine processor
+		//SDL_Delay(16);
+		SDL_Delay(8);
 	}
 
 	return 0;

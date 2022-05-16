@@ -2,7 +2,7 @@
 
 # Usbong Automotive: Image Processing Automation
 # Usbong Computer Aided Design (CAD): 3D Tool 
-# Usbong Pagong System
+# Usbong Retro System
 #
 # C/C++ Computer Language and Simple Directmedia Layer (SDL) + SDL Image
 #
@@ -11,7 +11,7 @@
 # @company: USBONG
 # @author: SYSON, MICHAEL B.
 # @date created: 20200930
-# @last updated: 20210818
+# @last updated: 20220516; from 20210818
 # @website address: http://www.usbong.ph
 #
 # Reference:
@@ -52,7 +52,7 @@ g++ -c mainLinux.cpp
 #g++ -o ./output/UsbongStoryLinux mainLinux.o OpenGLCanvas.o MyDynamicObject.o RobotShip.o Font.o Beam.o Asteroid.o Level.o PolygonUtils.o CTargaImage.o Pilot.o UsbongUtils.o Button.o Ball.o Text.o Level2D.o -lGL -lGLU -lglut
 #edited by Mike, 20210818
 #g++ -o ./output/UsbongStoryLinux mainLinux.o OpenGLCanvas.o MyDynamicObject.o RobotShip.o Font.o Beam.o Asteroid.o Level.o PolygonUtils.o CTargaImage.o Pilot.o UsbongUtils.o Button.o Ball.o Text.o Level2D.o -lGL -lGLU -lglut -lSDL2 -lSDL2_image
-g++ -o ./output/UsbongPagongLinux mainLinux.o -lGL -lGLU -lglut -lSDL2 -lSDL2_image
+g++ -o ./output/UsbongRetroLinux mainLinux.o -lGL -lGLU -lglut -lSDL2 -lSDL2_image
 
 #added by Mike, 20210220; removed by Mike, 20210818
 #cp -r ./*.o ./objectFilesLinux/
