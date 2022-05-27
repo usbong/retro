@@ -16,8 +16,11 @@ required library already installed on Linux Machine
 0.2 [Usbong Pagong: SDL Only; No OpenGL](https://github.com/usbong/pagong/blob/main/history/pagong-mainSDLOnlyNoOpenGL32BitOSOKCppNotYetSetToBeMultiFilesV20210819T1440.tar.gz)
 
 ## 1. Application Execution
---> verified: with Windows 7 32-bit Operating System (OS)<br/>
+--> 1.1. verified: with Windows 7 32-bit Operating System (OS)<br/>
 --> Double-click output/<b>UsbongRetroSystem.exe</b> file.<br/>
+<br/>
+--> 1.2. verified: with Linux Ubuntu (LUBUNTU) 32-bit Operating System (OS)<br/>
+--> <b>./output/UsbongRetroSystemLinux</b> file.<br/>
 
 ## 2. Library Requirements
 <b>Library:</b> set of reusable instructions
