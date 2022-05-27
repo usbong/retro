@@ -1,6 +1,9 @@
 # Usbong RETRO
 Reusable computer instructions for use with 32-bit Operating Systems without 3-Dimensional (3D) Graphics Acceleration
 
+### keyphrase: 
+Simple Directmedia Layer (SDL) only; No Open Graphics Library (OpenGL)
+
 ### Windows Machine
 [Example Application Execution Video (Windows 7 Machine)](http://store.usbong.ph/assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4)
 
